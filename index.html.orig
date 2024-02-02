@@ -3,7 +3,11 @@
 
 <head>
 <<<<<<< HEAD
-     <title> Application</title>
+<<<<<<< HEAD
+     <title>Devops  Application</title>
+=======
+     <title>Dev Application</title>
+>>>>>>> branch2
 =======
      <title>Devops  Application</title>
 >>>>>>> branch2
